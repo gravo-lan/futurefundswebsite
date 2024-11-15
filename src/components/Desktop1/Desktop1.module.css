@@ -1,0 +1,257 @@
+.button2.button2 {
+  left: 143px;
+  top: 575px;
+  width: 203px;
+  height: 64px;
+  outline: solid 1px #057a32;
+  border-radius: 9999px;
+  background-color: #028238;
+}
+.button {
+  color: #f5f5f5;
+  font-size: 20px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.button4.button4 {
+  left: 383px;
+  top: 575px;
+  width: 203px;
+  height: 63px;
+  outline: solid 2px #057a32;
+  outline-offset: -2px;
+  border-radius: 9999px;
+  background-color: #02823800;
+}
+.button3 {
+  color: #057a32;
+  font-size: 20px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.button6.button6 {
+  left: 1170px;
+  top: 35px;
+  width: 143px;
+  height: 39px;
+  outline: solid 1px #057a32;
+  border-radius: 9999px;
+  background-color: #028238;
+}
+.button5 {
+  color: #f5f5f5;
+  font-size: 16px;
+  line-height: 16px;
+  font-family: Crimson Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.aBOUTUS2.aBOUTUS2 {
+  left: 878.4732px;
+  top: 42px;
+  width: 109.9237px;
+}
+.aBOUTUS {
+  color: #000;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: bold;
+  font-family: Crimson Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+  position: absolute;
+  left: 14.5556%;
+  right: 15.3958%;
+  top: 16.6667%;
+  bottom: 16.6667%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cONTACT2.cONTACT2 {
+  left: 1025.9541px;
+  top: 42px;
+  width: 106.2595px;
+}
+.cONTACT {
+  color: #000;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: bold;
+  font-family: Crimson Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+  position: absolute;
+  left: 15.0575%;
+  right: 14.3606%;
+  top: 16.6667%;
+  bottom: 16.6667%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow-y: auto;
+}
+.polygon1 {
+  position: absolute;
+  left: -479px;
+  top: -12px;
+  width: 1915px;
+  height: 1915.0002px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle5 {
+  position: absolute;
+  left: 0;
+  top: 947px;
+  width: 1440px;
+  height: 337px;
+  background-color: #f5f5f5;
+}
+.polygon2 {
+  position: absolute;
+  left: -479px;
+  top: 326px;
+  width: 1915px;
+  height: 1915.0002px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle6 {
+  position: absolute;
+  left: 0;
+  top: 1284px;
+  width: 1440px;
+  height: 337px;
+  background-color: #eee;
+}
+.polygon3 {
+  position: absolute;
+  left: -479px;
+  top: 662.9999px;
+  width: 1919px;
+  height: 1915.0002px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle7 {
+  position: absolute;
+  left: 0px;
+  top: 1621px;
+  width: 1440px;
+  height: 1126px;
+  background-color: #e6e6e6;
+}
+.gROW_UP_BUSINESS_LOGORemovebgP {
+  position: absolute;
+  left: calc(50% - -352px);
+  top: 263px;
+  width: 500px;
+  height: 309px;
+  background-image:/* webpackIgnore: true */ url('assets/gROW_UP_BUSINESS_LOGORemovebgP.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translateX(-50%);
+}
+.empoweringYoungMindsInFinance {
+  position: absolute;
+  left: 143px;
+  top: 278px;
+  width: 659px;
+  height: 101px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #1e1e1e;
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: bold;
+  font-family: Crimson Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #1e1e1e;
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: bold;
+  font-family: Crimson Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+}
+.rectangle4 {
+  position: absolute;
+  left: 0px;
+  top: -61px;
+  width: 1440px;
+  height: 167px;
+  background-color: #fff;
+}
+.gROW_UP_BUSINESS_LOGORemovebgP2 {
+  position: absolute;
+  left: calc(50% - 595.8778px);
+  top: 12px;
+  width: 101.6794px;
+  height: 69px;
+  background-image:/* webpackIgnore: true */ url('assets/gROW_UP_BUSINESS_LOGORemovebgP2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translateX(-50%);
+}
+.hOME {
+  color: #000;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: bold;
+  font-family: Crimson Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.15px;
+  position: absolute;
+  left: 209px;
+  top: 46px;
+  width: 56px;
+  height: min-content;
+  flex-direction: column;
+}
