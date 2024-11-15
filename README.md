@@ -1,2 +1,2 @@
 # Future Funds Initiative
-Source code for the Future Funds Iniative website
+Source code for the Future Funds Initiative website
