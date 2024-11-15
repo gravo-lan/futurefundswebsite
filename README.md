@@ -1,2 +1,2 @@
-# futurefundswebsite
-Created with CodeSandbox
+# Future Funds Initiative
+Source code for the Future Funds Iniative website
