@@ -1,7 +1,8 @@
 {
-  "name": "clapy-react",
+  "name": "Future Funds Website",
   "version": "1.0.0",
-  "description": "A React app template for Clapy",
+  "homepage": "gravo-lan.github.io/futurefundswebsite",
+  "description": "Future Funds Initiative Website",
   "keywords": [
     "Clapy",
     "React",
@@ -19,6 +20,8 @@
     "typescript": "5.6.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
