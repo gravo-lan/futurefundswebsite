@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/futurefundswebsite/static/css/main.417483cc.css",
+    "main.js": "/futurefundswebsite/static/js/main.68c566ee.js",
+    "index.html": "/futurefundswebsite/index.html",
+    "main.417483cc.css.map": "/futurefundswebsite/static/css/main.417483cc.css.map",
+    "main.68c566ee.js.map": "/futurefundswebsite/static/js/main.68c566ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.417483cc.css",
+    "static/js/main.68c566ee.js"
+  ]
+}
