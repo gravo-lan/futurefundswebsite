@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gravo-lan.github.io/futurefundswebsite/static/css/main.417483cc.css",
-    "main.js": "/gravo-lan.github.io/futurefundswebsite/static/js/main.68c566ee.js",
+    "main.js": "/gravo-lan.github.io/futurefundswebsite/static/js/main.dca17d85.js",
     "index.html": "/gravo-lan.github.io/futurefundswebsite/index.html",
     "main.417483cc.css.map": "/gravo-lan.github.io/futurefundswebsite/static/css/main.417483cc.css.map",
-    "main.68c566ee.js.map": "/gravo-lan.github.io/futurefundswebsite/static/js/main.68c566ee.js.map"
+    "main.dca17d85.js.map": "/gravo-lan.github.io/futurefundswebsite/static/js/main.dca17d85.js.map"
   },
   "entrypoints": [
     "static/css/main.417483cc.css",
-    "static/js/main.68c566ee.js"
+    "static/js/main.dca17d85.js"
   ]
 }
