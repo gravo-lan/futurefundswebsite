@@ -1,14 +1,10 @@
 {
+  "repository": "https://github.com/gravo-lan/futurefundswebsite",
   "name": "Future Funds Website",
+  "author": "Alvin Tso <alvintsolh@gmail.com>",
   "version": "1.0.0",
-  "homepage": "https://gravo-lan.github.io/futurefundswebsite",
+  "homepage": "https://gravo-lan.github.io/futurefundswebsite/",
   "description": "Future Funds Initiative Website",
-  "keywords": [
-    "Clapy",
-    "React",
-    "TypeScript"
-  ],
-  "main": "src/index.tsx",
   "dependencies": {
     "react": "18.3.1",
     "react-dom": "18.3.1"
