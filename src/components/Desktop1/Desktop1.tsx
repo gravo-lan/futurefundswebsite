@@ -1,5 +1,6 @@
 import { memo } from 'react';
 import type { FC } from 'react';
+import { Linking, Pressable } from 'react-native';
 
 import resets from '../_resets.module.css';
 import { ABOUTUS_Property1Default } from './ABOUTUS_Property1Default/ABOUTUS_Property1Default';
@@ -48,25 +49,29 @@ export const Desktop1: FC<Props> = memo(function Desktop1(props = {}) {
       </div>
       <div className={classes.rectangle4}></div>
       <div className={classes.gROW_UP_BUSINESS_LOGORemovebgP2}></div>
-      <Button_VariantPrimaryStateDefa
-        className={classes.button6}
-        text={{
-          button: <div className={classes.button5}>VOLUNTEER</div>,
-        }}
-      />
+      <Pressable onPress = {() => Linking.openURL("https://www.linkedin.com/company/future-funds-initiative/")}>
+        <Button_VariantPrimaryStateDefa
+          className={classes.button6}
+          text={{
+            button: <div className={classes.button5}>VOLUNTEER</div>,
+          }}
+        />
+      </Pressable>
       <ABOUTUS_Property1Default
         className={classes.aBOUTUS2}
         text={{
           aBOUTUS: <div className={classes.aBOUTUS}>ABOUT US</div>,
         }}
       />
-      <CONTACT_Property1Default
-        className={classes.cONTACT2}
-        text={{
-          cONTACT: <div className={classes.cONTACT}>CONTACT</div>,
-        }}
-      />
+      <Pressable onPress = {() => Linking.openURL("mailto:gehl01@sevenoaksschool.org")}>
+        <CONTACT_Property1Default
+          className={classes.cONTACT2}
+          text={{
+            cONTACT: <div className={classes.cONTACT}>CONTACT</div>,
+          }}
+        />
       <div className={classes.hOME}>HOME</div>
+      </Pressable>
     </div>
   );
 });
