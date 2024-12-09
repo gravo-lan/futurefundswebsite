@@ -7,13 +7,13 @@
   "description": "Future Funds Initiative Website",
   "dependencies": {
     "gh-pages": "^6.2.0",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "react-native": "^0.76.2",
     "react-native-web": "^0.19.13"
   },
   "devDependencies": {
-    "@types/react": "18.3.12",
+    "@types/react": "19.0.1",
     "@types/react-dom": "18.3.1",
     "react-native": "0.76.2",
     "react-scripts": "5.0.1",
